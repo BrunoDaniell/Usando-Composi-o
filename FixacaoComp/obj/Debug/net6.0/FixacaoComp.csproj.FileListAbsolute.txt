@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\bin\Debug\net6.0\FixacaoComp.exe
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\bin\Debug\net6.0\FixacaoComp.deps.json
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\bin\Debug\net6.0\FixacaoComp.runtimeconfig.json
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\bin\Debug\net6.0\FixacaoComp.dll
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\bin\Debug\net6.0\FixacaoComp.pdb
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\FixacaoComp.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\FixacaoComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\FixacaoComp.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\FixacaoComp.AssemblyInfo.cs
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\FixacaoComp.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\FixacaoComp.dll
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\refint\FixacaoComp.dll
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\FixacaoComp.pdb
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\FixacaoComp.genruntimeconfig.cache
+C:\Users\bruno\Desktop\PROJETOS\FixacaoComp\FixacaoComp\obj\Debug\net6.0\ref\FixacaoComp.dll
